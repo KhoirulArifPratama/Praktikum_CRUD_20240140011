@@ -1,4 +1,4 @@
-package com.deploy.Praktikum1;
+package com.deploy.praktikum1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
