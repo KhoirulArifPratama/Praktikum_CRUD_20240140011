@@ -1,7 +1,7 @@
-package com.deploy.Praktikum1.service;
+package com.deploy.praktikum1.service;
 
-import com.deploy.Praktikum1.model.dto.UserAddRequest;
-import com.deploy.Praktikum1.model.dto.UserDto;
+import com.deploy.praktikum1.model.dto.UserAddRequest;
+import com.deploy.praktikum1.model.dto.UserDto;
 
 import java.util.List;
 
