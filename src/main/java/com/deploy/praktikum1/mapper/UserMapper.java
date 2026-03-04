@@ -1,7 +1,7 @@
-package com.deploy.Praktikum1.mapper;
+package com.deploy.praktikum1.mapper;
 
-import com.deploy.Praktikum1.model.dto.UserDto;
-import com.deploy.Praktikum1.model.entity.User;
+import com.deploy.praktikum1.model.dto.UserDto;
+import com.deploy.praktikum1.model.entity.User;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 
